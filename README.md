@@ -1,0 +1,2 @@
+# multi_model_call_demo
+一个支持同时调用多个大模型的web项目，你可以动态配置自己的prompt
